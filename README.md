@@ -3,6 +3,7 @@ Defines a `<star-rating>` custom element.
 
 ### Sample preview
 ![](preview.png)
+[See on JSFiddle](https://jsfiddle.net/bmx4n16k/)
 
 ## Attributes
 - `value` : A *float* value repersenting the rating value. Default value is `0`.
